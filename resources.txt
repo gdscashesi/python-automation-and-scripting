@@ -1,0 +1,19 @@
+EMAIL PROVIDERS and their SMTPs
+
+Gmail: smtp.gmail.com
+
+Hotmail: smtp.live.com
+
+Outlook: outlook.office365.com
+
+Yahoo: smtp.mail.yahoo.com
+
+DOCUMENTATIONS
+datetime - https://docs.python.org/3/library/datetime.html
+beautiful soup - https://beautiful-soup-4.readthedocs.io/en/latest/#
+
+
+URLS
+ps5 jumia url - https://www.jumia.com.gh/ps5-console-825gb-white-playstation-mpg441043.html
+selenium web driver download - https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
+webdriver manager for Python - https://github.com/SergeyPirogov/webdriver_manager
